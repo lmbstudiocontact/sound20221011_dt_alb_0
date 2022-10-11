@@ -1,0 +1,63 @@
+{
+  "id_alb": "13949024",
+  "index_page": 0,
+  "name_alb": "Reptiles Class",
+  "total_img": 5,
+  "total_page": 0,
+  "hc_lt_alb": "-788012454",
+  "hc_lt_data_img": "-741518361",
+  "lt_alb": [
+    {
+      "id_alb": "13949024",
+      "name_alb": "Reptiles Class",
+      "total_img": 5
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-801961483",
+      "id_img": "Chameleon_Reptiles",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7KmoX00RuhXhBs/EGu3QDkZlfxmAkuh5rMWVwyZVQZiaf/M=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZektP4GsD9ecMj7pQaRtPn1NRAymuHlt1MWiEkW8J8JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "13949024"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-801961483",
+      "id_img": "Crocodile_Reptiles",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7KmoWvz0zf+bcpC100oeok5kzBmAkuh5rMWVwyZVQZiaf/M=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifM3RRRiAOv3XsZE86zFy4MptlPSO8hPR9LXlamyKkrr5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "13949024"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-801961483",
+      "id_img": "Rattlesnake_Reptiles",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7Kmo38RguCMACfb72HO7bTT/0b9L4FMdMXtaJDUqj2a2snI=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiey8P3RdyOb9IbLit0q+gesxVt+jIw6hhsyg/8Ku/ZnqJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "13949024"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-801961483",
+      "id_img": "Turtle_Reptiles",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7KmoyS5GCgdTp3lA1FJEfhI37CTpMDO+SdHRpLKOiBP4o+c=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1I+ADc5Vz/vOSkVNwD3bSuSuNr2aG/iOZO+IZkp8cApVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "13949024"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-801961483",
+      "id_img": "Komododragon_Reptiles",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7KmowuVIKgZw03VORQ/GYtNlNp6MpsojeGKk7sxtdqjEtxA=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz+0LVc5IDgW/VOXraDLW48KygQqiH+8YgL1KB2/HA1ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "13949024"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id_alb": "-169857841",
+  "index_page": 0,
+  "name_alb": "Chondrichthyes Class",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "1530466484",
+  "hc_lt_data_img": "-416336938",
+  "lt_alb": [
+    {
+      "id_alb": "-169857841",
+      "name_alb": "Chondrichthyes Class",
+      "total_img": 4
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1700324321",
+      "id_img": "Whale_Chonodrichthyes",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7Kmo+Xegi8FWO9VjtZrgrqklMLSQ5tDUUqGU1KcpWEypADw=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie09rN8akXbq4DWKEKSicN/Yd/GSVTBGi9CdxnmGuw4oZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-169857841"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1700324321",
+      "id_img": "BelugaWhale_Chonodrichthyes",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7KmoAD2bec7Rx9Yeqmgcpym0wAPxNVjk9rS6gegrH6FxLhyQLBv/I88m5UqdtGei07AD",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifya+RiffESWy4A3lYfmZLK9EXhM/aOQobLRWqamVmRZZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-169857841"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1700324321",
+      "id_img": "Dolphin_Chonodrichthyes",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7KmoAAQHSrioNN018j66xTEAXt1wrJ0/Q8q1FQmLyEBlukQ=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid85S3V6dX/b4wq8xjt72wESVbq5AGKznahOBCRv15q0pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-169857841"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1700324321",
+      "id_img": "KillerWhale_Chonodrichthyes",
+      "link_sound": "X+VNXclBwyJSGBcclrB66C6IjWJtzMoB23NcQ8UNnolhJUo1xiP2jDHBtKSQ7Kmol9EzcpvOOFPc+MsYFyx+7wPxNVjk9rS6gegrH6FxLhyQLBv/I88m5UqdtGei07AD",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrxe7qV6KifPGvt9YeZSkr3/efiQrsVzizZhj4hmIhdpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-169857841"
+      ]
+    }
+  ]
+}
